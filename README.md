@@ -16,7 +16,7 @@
 [![Website Badge](https://img.shields.io/badge/Vikrant-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Chauhan27_vs)
 
 # Hi, 
-I'm a Web-Developer and have a wide knowledge on front-end development like (React, Angular11, HTML5, CSS3, Javascript, Responsive Designs) and I've a knowledge in back-end development using open-source (Node.js) and in database I can come up with @MongoDb also have a basic understanding of core JAVA. Currently workning on full-fledge website.
+I'm a Web-Developer and have a wide knowledge on front-end development like (React, Angular11, HTML5, CSS3, Javascript, Responsive Designs) and I've a knowledge in back-end development using open-source Node.js and in database I can come up with @MongoDb also have a basic understanding of core JAVA. Currently workning on full-fledge website.
 
 
 
