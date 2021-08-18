@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently Working on full fledge dynamic website
-- 🌱 I’m currently learning : Advanced Java 
+- 🌱 I’m currently learning : Advance Java 
  
 ### Connect with me:
 
