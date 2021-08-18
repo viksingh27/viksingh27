@@ -11,7 +11,6 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vikrant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/vikrant-singh-80882a15a/)
-[![Gmail Badge](https://img.shields.io/badge/Vikrant-red?style=flat-square&logo=gmail&logoColor=white)](singhvikrant19951227@gmail.com)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vikrant-yellow)](https://stackoverflow.com/users/15565801/vikrant-singh-chauhan)
 [![Website Badge](https://img.shields.io/badge/Vikrant-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Chauhan27_vs)
 
